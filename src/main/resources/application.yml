@@ -15,4 +15,4 @@ spring:
       host: sccdev.cd.pangu16.com
       port: 6379
       password: 123456
-#      database: 2
+      database: 2
